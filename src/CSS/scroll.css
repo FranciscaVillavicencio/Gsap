@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.seccion {
+    background-color: pink;
+    min-height: 100vh;
+}
+
+.seccion2 {
+    background-color: rgb(74, 7, 180);
+    min-height: 100vh;
+}
+
+.cajita {
+    background-color: rgb(235, 212, 6);
+    width: 150px;
+    height: 150px;
+}
+
+.cajita2 {
+    background-color: rgb(0, 0, 0);
+    width: 150px;
+    height: 150px;
+    margin-top: 200px;
+}
